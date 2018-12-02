@@ -1,6 +1,6 @@
 {
   "name": "has-css-id-selector",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A test to determine wether a selector contains an ID selector",
   "main": "index.js",
   "scripts": {
