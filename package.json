@@ -1,0 +1,37 @@
+{
+  "name": "has-css-id-selector",
+  "version": "0.1.0",
+  "description": "A test to determine wether a selector contains an ID selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": "bartveneman/has-css-id-selector",
+  "keywords": [
+    "css",
+    "selector",
+    "id",
+    "check",
+    "test",
+    "assert",
+    "analyzer",
+    "complexity",
+    "projectwallace",
+    "wallace"
+  ],
+  "author": "Bart Veneman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartveneman/has-css-id-selector/issues"
+  },
+  "homepage": "https://www.projectwallace.com/oss",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "prettier": "^1.15.2",
+    "xo": "^0.23.0"
+  },
+  "xo": {
+    "semicolon": false,
+    "prettier": true
+  }
+}
