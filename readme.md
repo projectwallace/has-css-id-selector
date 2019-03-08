@@ -1,4 +1,10 @@
-# has-css-id-selector [![Build Status](https://travis-ci.org/bartveneman/has-css-id-selector.svg?branch=master)](https://travis-ci.org/bartveneman/has-css-id-selector) [![Known Vulnerabilities](https://snyk.io/test/github/bartveneman/has-css-id-selector/badge.svg)](https://snyk.io/test/github/bartveneman/has-css-id-selector) ![Dependencies Status](https://img.shields.io/david/bartveneman/has-css-id-selector.svg) ![Dependencies Status](https://img.shields.io/david/dev/bartveneman/has-css-id-selector.svg) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+# has-css-id-selector 
+[![Build Status](https://travis-ci.org/bartveneman/has-css-id-selector.svg?branch=master)](https://travis-ci.org/bartveneman/has-css-id-selector) 
+[![Known Vulnerabilities](https://snyk.io/test/github/bartveneman/has-css-id-selector/badge.svg)](https://snyk.io/test/github/bartveneman/has-css-id-selector) 
+![Dependencies Status](https://img.shields.io/david/bartveneman/has-css-id-selector.svg) 
+![Dependencies Status](https://img.shields.io/david/dev/bartveneman/has-css-id-selector.svg) 
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+[![Project: Wallace](https://img.shields.io/badge/Project-Wallace-29c87d.svg)](https://www.projectwallace.com/oss)
 
 A test to determine wether a selector contains an id selector
 
